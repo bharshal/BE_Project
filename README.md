@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## BE_project
 Automated Attendance System for Classroom using Face Recognition
 ### Run `database.py` to get final output
