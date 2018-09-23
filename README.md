@@ -13,7 +13,7 @@ They are too large to be uploaded to github.
 
 You can download them from following link and paste them in utils folder:
 
-https://drive.google.com/open?id=1-O-2ad-HHmYQ6dJ13qiHwzwvhlqOYX1T
+https://drive.google.com/open?id=1-O-2ad-HHmYQ6dJ13qHwzwvhlqOYX1T
 
 Code is under Apache 2.0 licence
 The code uses Google's Tensorflow object detection api for face detection. Please refer to the license of tensorflow.
